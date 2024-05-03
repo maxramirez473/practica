@@ -1,0 +1,1 @@
+Este proyecto sirve con propositos educativos sobre el uso basico de git en un entorno de trabajo colaborativo
