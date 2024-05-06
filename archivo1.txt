@@ -1,2 +1,2 @@
 Estoy agregando texto al archivo1
-Estoy editando desde la rama nueva
+Estoy editando desde la rama nueva feature-archivo1
