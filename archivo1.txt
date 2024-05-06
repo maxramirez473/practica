@@ -1,1 +1,2 @@
 Estoy agregando texto al archivo1
+Estoy editando desde la rama nueva
